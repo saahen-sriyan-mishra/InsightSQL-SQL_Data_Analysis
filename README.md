@@ -88,6 +88,8 @@ production.categories, production.brands, production.products, sales.customers, 
 
 
 ## walmart Sales Data Exploration
+
+### Introduction
 This contains SQL queries and scripts for analyzing Walmart sales data stored in the database. The aim is to uncover insights into customer behavior, sales volumes, product performance, rating revenue etc.
 
 ### SQL Queries
@@ -127,13 +129,34 @@ The analysis covers various aspects including product-related metrics, customer 
 **Dashboard link:** [Walmart Sales Dashboard](https://github.com/saahen-sriyan-mishra/Tableau-Visualizations/blob/main/3.%20WALMART%20SALES/Walmart%20Sales%20Dashboard.twbx)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Pizza Sales SQL Analysis
 
+### Introduction
+This repository contains SQL queries and scripts for analyzing pizza sales data stored in the database pizza_sales.
+### SQL Queries
+#### Key Performance Indicators (KPIs)
+- **Total Revenue:** Calculate the total revenue generated from pizza sales.
+- **Average Order Value:** Determine the average value of each order.
+- **Total Pizza Sold:** Calculate the total quantity of pizzas sold.
+- **Total Orders:** Count the total number of orders.
+- **Average Pizzas per Order:** Calculate the average number of pizzas per order.-
 
-
+#### Chart Requirements
+- **Daily Trend for Total Orders:** Analyze the daily trend of total orders.
+- **Monthly Trend for Total Orders:** Explore the monthly trend of total orders.
+- **Percentage of Sales by Pizza Category:** Determine the percentage of sales contributed by each pizza category.
+- **Percentage of Sales by Pizza Size:** Analyze the percentage of sales contributed by each pizza size.
+- **Total Pizza Sold by Category:** Calculate the total quantity of pizzas sold for each category.
+- **Top 5 Pizza Places by Revenue:** Identify the top 5 pizza places by revenue.
+- **Bottom 5 Pizza Places by Revenue:** Identify the bottom 5 pizza places by revenue.
+- **Top 5 Pizza Places by Quantity:** Determine the top 5 pizza places by quantity sold.
+- **Bottom 5 Pizza Places by Quantity:** Determine the bottom 5 pizza places by quantity sold.
+- **Top 5 Pizzas by Total Order:** Identify the top 5 pizzas by total number of orders. 
+- **Bottom 5 Pizzas by Total Order:** Identify the bottom 5 pizzas by total number of orders.
 
 **Dashboard link:** [Pizza Sales Dashboard](https://github.com/saahen-sriyan-mishra/Power-BI-Visualizations/blob/main/4.%20PIZZA%20SALES%20REPORT/PIZZA%20SALES%20REPORT.pbix)
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Usage
 - To replicate the analysis, execute the provided SQL queries in a SQL environment connected to the required DB.
 - To view the dashboards, click on the link, download the file and exploare the interactive dashboards.
