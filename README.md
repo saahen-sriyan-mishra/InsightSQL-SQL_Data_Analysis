@@ -60,7 +60,7 @@ The data used for this analysis is sourced from the "Covid Death & Vaccination" 
 ### Introduction
 This repository contains SQL scripts for setting up the BikeStores sample database and performing various data exploration tasks.  The aim is to uncover insights into customer behavior, sales volumes, product performance, and revenue generation.
 
-###Database Information
+### Database Information
 - **Link:** [BikeStores Sample Database](http://www.sqlservertutorial.net/load-sample-database/)
 
 ### SQL Queries
