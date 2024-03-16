@@ -1,5 +1,5 @@
 # SQL DATA ANALYSIS
-
+(All the findings and relationship are visualised into Tableau and Power BI repositories)
 ## Tools Used:
 SQL server management studio 19
 ## SQL Functions Used:
