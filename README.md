@@ -1,6 +1,8 @@
-### Tools Used:
+# SQL DATA ANALYSIS
+
+## Tools Used:
 SQL server management studio 19
-### SQL Functions Used:
+## SQL Functions Used:
 Arithmetic operations,  conversion functions, Cast functions,  grouping, ordering, sorting, filtering, Aggregation functions, Using CTE and Temp Tables, View for data storage, Table manipulation (Feature Engineering) etc.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
