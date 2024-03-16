@@ -129,7 +129,12 @@ The analysis covers various aspects including product-related metrics, customer 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+
+**Dashboard link:** [Pizza Sales Dashboard](https://github.com/saahen-sriyan-mishra/Power-BI-Visualizations/blob/main/4.%20PIZZA%20SALES%20REPORT/PIZZA%20SALES%20REPORT.pbix)
+
+
 ### Usage
-To replicate the analysis, execute the provided SQL queries in a SQL environment connected to the required DB.
-To view the dashboards, click on the link, download the file and exploare the interactive dashboards.
+- To replicate the analysis, execute the provided SQL queries in a SQL environment connected to the required DB.
+- To view the dashboards, click on the link, download the file and exploare the interactive dashboards.
 
