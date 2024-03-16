@@ -69,10 +69,10 @@ This repository contains SQL scripts for setting up the BikeStores sample databa
 - Two schemas are created: `production` and `sales`.
 
 #### Table Creation
-**production.categories**, **production.brands**, **production.products**, **sales.customers**, **sales.stores**, **sales.staffs**, **sales.orders**, **sales.order_items**, **production.stocks**
+production.categories, production.brands, production.products, sales.customers, sales.stores, sales.staffs, sales.orders, sales.order_items, production.stocks
 
 #### Data Population
-- Data is populated into the `production.brands`, `production.categories`, and `production.products` tables.
+- Data is populated into the tables for both the schemas.
 
 #### Queries Overview
 - **Customer Details** Retrieves customer details along with their orders.
@@ -96,7 +96,7 @@ Before conducting any analysis, ensure that the data is properly processed and s
 #### Analysis
 The analysis covers various aspects including product-related metrics, customer insights, and sales performance. Here's a breakdown of the analysis sections:
 
-##### Product Analysis
+#### Product Analysis
 - **Unique Product Lines:** Identify the distinct product lines available in the dataset.
 - **Most Common Payment Method:** Determine the most frequently used payment method.
 - **Most Popular Selling Product:** Find the product line with the highest sales volume.
@@ -106,7 +106,7 @@ The analysis covers various aspects including product-related metrics, customer 
 - **City Revenue:** Find the city generating the highest revenue.
 - **Product Line VAT Analysis:** Identify the product line with the largest VAT.
 
-##### Customer Analysis
+#### Customer Analysis
 - **Unique Customer Types:** Determine the variety of customer types in the dataset.
 - **Most Common Customer Type:** Find the most prevalent customer type.
 - **Customer Buying Behavior:** Analyze the buying patterns of different customer types.
@@ -114,7 +114,7 @@ The analysis covers various aspects including product-related metrics, customer 
 - **Gender Distribution per Branch:** Analyze gender distribution across different branches.
 - **Rating Analysis:** Explore customer ratings by time of the day, day of the week, and branch.
 
-##### Sales Analysis
+#### Sales Analysis
 - **Sales by Time of the Day:** Analyze sales volume across different times of the day.
 - **Revenue by Customer Type:** Determine which customer type contributes the most to revenue.
 - **City Tax/VAT Analysis:** Identify the city with the highest tax/VAT percentage.
